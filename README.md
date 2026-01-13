@@ -8,5 +8,5 @@ These are some of my favorite animals. I put a dog, cat, and a bunny. They are a
  https://rosytheflowerqueen-cpu.github.io/My-Pets/
 
 ## Author
-** Sophia Cheng **
+**Sophia Cheng**
 Github : https://rosytheflowerqueen-cpu.github.io
