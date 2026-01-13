@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animals </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#Cats">Cats</a></li>
+            <li><a href="#Dogs">Dogs</a></li>
+            <li><a href="#Bunnies">Bunnies</a></li>
+            <li><a href="#Fun Activitiy">Fun Activitiy</a></li>
+        </ul>
+    </nav>
+    <header id="Cats">
+        <hgroup>
+            <h1>Animals</h1>
+            <h2>Cats</h2>
+        </hgroup>
+        <img src="https://iili.io/fv0PTDG.jpg" id="img1" alt="">
+        <br>
+        <hr>
+
+        <p>Cats are really cute and some people say they always land on all fours!</p>
+    </header>
+    <main>
+        <section id="Dogs">
+        <h5>Dogs</h5>
+        <img src="https://iili.io/fv0pDaj.jpg" id="img2" alt="">
+        <br>
+        <p id="para">Dogs are very intellegnt and they are very smart.</p>
+        <button onclick="Surfers()">More fun facts for dogs!✨</button>
+        </section>
+        <section id="Bunnies">
+            <h5>Bunnies</h5>
+            
+            <img src="https://iili.io/fv1Hp9f.jpg" id="img3" alt="">
+            <br>
+
+        </section>
+        <section id="Mycard"><div class="card">
+          <h2>Click the button</h2>
+          <p>This button will show you my favorite animal!</p>
+          <button onClick="shownname()">Click Me</button>  
+                <section id="Fun Activitiy">
+            <h5>Fun Activitiy</h5>
+
+
+        </section>
+</div></section>
+        <section id="contactform">
+            <div class="form-box">
+                <form id="studentForm">
+                    <label>name:</label>
+                    <input type="text" id="name" required>
+                    <label>age:</label>
+                    <input type="text" id="age" required>
+                    <label>favorite animal:</label>
+                    <select id="subject">
+                        <option value="Cat">Cat</option>
+                        <option value="Dog">Dog</option>
+                        <option value="Bunny">Bunny</option>
+                        <option value="None of Above">None of Above</option>
+                    </select>
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+            <h3>Submited details</h3>
+            <table id="resulttable">
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>favorite animal</th>
+                </tr>
+            </table>
+        </section>
+
+    </main>
+    <footer>&copy; 2025 My Website</footer>
+    <script src="main.js"></script>
+    
+</body>
+</html>
