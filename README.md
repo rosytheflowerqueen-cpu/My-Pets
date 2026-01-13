@@ -6,3 +6,7 @@ These are some of my favorite animals. I put a dog, cat, and a bunny. They are a
 
 ## Live Testing
  https://rosytheflowerqueen-cpu.github.io/My-Pets/
+
+## Author
+** Sophia Cheng **
+Github : https://rosytheflowerqueen-cpu.github.io
