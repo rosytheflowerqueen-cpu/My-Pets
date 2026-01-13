@@ -9,4 +9,4 @@ These are some of my favorite animals. I put a dog, cat, and a bunny. They are a
 
 ## Author
 **Sophia Cheng**
-Github : https://rosytheflowerqueen-cpu.github.io
+Github : https://github.com/rosytheflowerqueen-cpu
